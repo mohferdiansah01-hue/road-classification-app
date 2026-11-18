@@ -1,0 +1,7 @@
+{
+  "model_name": "EfficientNetB0",
+  "class_names": ["berlubang", "normal", "rusak"],
+  "img_size": 224,
+  "use_rescale": false,
+  "metrics": { "accuracy": 0.964497, "f1_macro": 0.964754, ... }
+}
